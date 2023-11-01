@@ -1,0 +1,50 @@
+
+*{
+margin: 1rem;
+padding: 1rem;
+box-sizing: border-box;
+}
+
+.Inicio{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: aqua;
+}
+
+.menu{
+    color: chocolate
+    
+}
+
+body{
+    background-color: brown;
+}
+
+.list{
+    text-align: center;
+     list-style-type: none;
+}
+
+
+.Datos{
+list-style-type: none;
+    text-align: center;
+    color: beige;
+}
+
+.Quienes-Somos{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.contenendorImagenes{
+   margin-left: 50px;
+   align-items: center;
+}
+
+
+.Alimentos{
+    height: 250px;
+    width: 250px;
+    list-style-type: none;
+}
+
+
